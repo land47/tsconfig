@@ -9,4 +9,6 @@ curl https://raw.githubusercontent.com/profilemyprofile/tsconfig/main/tsconfig.j
 ## Project structure:
 
 tsconfig.json
+
+
 src/...
