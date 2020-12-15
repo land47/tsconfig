@@ -6,9 +6,8 @@ In your project:
 curl https://raw.githubusercontent.com/profilemyprofile/tsconfig/main/tsconfig.json >> tsconfig.json
 ```
 
-## Project structure:
+## Project structure
 
 tsconfig.json
-
 
 src/...
