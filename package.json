@@ -1,0 +1,9 @@
+{
+  "name": "@unexp/tsconfig",
+  "version": "1.0.0",
+  "description": "My custom configuration for typescript.",
+  "main": "tsconfig.json",
+  "author": "Anton Zahariev <jjoska@yandex.ru>",
+  "license": "MIT",
+  "private": false
+}
